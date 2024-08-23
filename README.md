@@ -2,7 +2,7 @@
 
 This is Week 0 Challenge on 10 Academy: Artificial Intelligence Mastery
 
-** Results **
+**Results**
 
 - I was able to commit and push into my github repo
 - Able to setup virtual environment
